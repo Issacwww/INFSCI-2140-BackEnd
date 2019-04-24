@@ -16,10 +16,6 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <INSTANCE_CONNECTION_NAME>ir-askpy:us-central1:qa-posts</INSTANCE_CONNECTION_NAME>
-        <user>root</user>
-        <password>gmysql</password>
-        <database>QAs</database>
     </properties>
 
 
